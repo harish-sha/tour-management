@@ -12,7 +12,7 @@ const MasonryImagesGallery = () => {
             src={item}
             key={index}
             alt=""
-            style={{ width: "100%", display: "block", borderRadius: "10px" }}
+            style={{ width: "100%", display: "block", borderRadius: "15px" }}
           />
         ))}
       </Masonry>
